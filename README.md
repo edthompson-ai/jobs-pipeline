@@ -4,7 +4,7 @@ The tool I use to run my own job search: it classifies startup job posts into ro
 
 **Live demo:** https://ed-jobs-pipeline.pages.dev/
 
-**Headline numbers:** **97%** accuracy on a 100-row sample I labeled by hand (99.8% population-weighted; see honesty note — do **not** use the post-fix 100% re-score as the headline); **28** offline tests; full classify under **1 second**. Family counts: A66 / B29 / C21 / D18 of 2,123 roles.
+**Headline numbers:** **97%** accuracy on a 100-row sample I labeled by hand (99.8% population-weighted; see honesty note — a later rule fix scored 100% on the same sample; not yet tested on a fresh one.); **28** offline tests; full classify under **1 second**. Family counts: A66 / B29 / C21 / D18 of 2,123 roles.
 
 **Authorship:** Built with Claude Code at my direction. I verified it against the saved tests and evidence.
 
