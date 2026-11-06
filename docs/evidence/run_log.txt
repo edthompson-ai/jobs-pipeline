@@ -1,0 +1,30 @@
+# make evidence: 2026-11-06T16:25:55Z on Linux x86_64
+Python 3.13.5
+{
+  "input": "s.csv",
+  "rows": 2123,
+  "families": {
+    "Other": 1989,
+    "A": 66,
+    "B": 29,
+    "D": 18,
+    "C": 21
+  },
+  "skip_reasons": {
+    "not_target": 998,
+    "senior_lead": 677,
+    "marketing": 223,
+    "(none)": 134,
+    "sdr_sales": 91
+  },
+  "low_confidence_rows": 182,
+  "load_seconds": 0.0117,
+  "classify_seconds": 0.1368,
+  "llm_seconds": 0.0,
+  "score_seconds": 0.0202,
+  "profile_summary": "AI-directed builder: directs Claude Code; two live sites; human-approval agent rules; no hand-coding.",
+  "llm": null,
+  "sample_rows": 100,
+  "total_seconds": 0.1852
+}
+wall_clock_seconds (whole process, incl. interpreter start): 0.246

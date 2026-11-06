@@ -1,0 +1,32 @@
+# Fit-scoring profile. Every number here is a tunable starting weight, not a
+# measured fact. The candidate facts below are ONLY those stated in the build
+# brief; nothing else about Ed is assumed (no location, years, salary, or level).
+#
+# Brief: "AI-directed builder (Claude Code, two live sites, human-approval agent
+# rules, no hand-coding)".
+
+[candidate]
+summary = "AI-directed builder: directs Claude Code; two live sites; human-approval agent rules; no hand-coding."
+
+# Base points by family. B (AI agent ops/automation) is highest because it maps
+# most directly to directing agents with human-approval rules.
+[family_base]
+A = 40
+B = 45
+C = 30
+D = 30
+Other = 0
+
+[signals]
+# Title mentions AI / agents / LLM / automation
+ai_signal = 15
+# Title is customer-facing delivery (implementation, onboarding, deployment, customer)
+customer_facing = 10
+# Title implies writing production code by hand (brief says no hand-coding)
+hand_coding = -25
+# Title says Senior / Sr. / II / III (lead-level titles are already skipped)
+senior_ic = -10
+# CSV Category is "Data & AI"
+data_ai_category = 5
+# Remote = Yes. 0 by default: the brief does not state a remote preference.
+remote = 0

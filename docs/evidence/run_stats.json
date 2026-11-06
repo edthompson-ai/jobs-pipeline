@@ -1,0 +1,27 @@
+{
+  "input": "s.csv",
+  "rows": 2123,
+  "families": {
+    "Other": 1989,
+    "A": 66,
+    "B": 29,
+    "D": 18,
+    "C": 21
+  },
+  "skip_reasons": {
+    "not_target": 998,
+    "senior_lead": 677,
+    "marketing": 223,
+    "(none)": 134,
+    "sdr_sales": 91
+  },
+  "low_confidence_rows": 182,
+  "load_seconds": 0.0127,
+  "classify_seconds": 0.1548,
+  "llm_seconds": 0.0,
+  "score_seconds": 0.0238,
+  "profile_summary": "AI-directed builder: directs Claude Code; two live sites; human-approval agent rules; no hand-coding.",
+  "llm": null,
+  "sample_rows": 100,
+  "total_seconds": 0.2073
+}

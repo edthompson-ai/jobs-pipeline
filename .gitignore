@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+out/classified.csv
+out/label_sample.csv
+out/label_sample_key.csv
+*.zip

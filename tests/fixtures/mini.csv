@@ -1,0 +1,16 @@
+Follow someone for more startup jobs,,,,,,,,
+,,,,,,,,
+"Startup jobs posted (fixture) · 12 roles",,,,,,,,
+Company,Role,Category,Location,Remote,Money raised,Apply link,Posted date,Company website
+Acme,Implementation Engineer,Operations,"Austin, TX",Yes,$10M,https://example.com/1,2026-10-30,https://acme.example
+Acme,GTM Engineer,Sales & Customer Success,Remote,Yes,$10M,https://example.com/2,2026-10-30,https://acme.example
+Beta,Solutions Engineer,Sales & Customer Success,"New York, NY",No,,https://example.com/3,2026-10-30,https://beta.example
+Beta,Technical Support Engineer,Engineering,Remote,Yes,,https://example.com/4,2026-10-30,https://beta.example
+Gamma,Head of Customer Success,Sales & Customer Success,"SF, CA",No,,https://example.com/5,2026-10-30,https://gamma.example
+Gamma,Sales Development Representative,Sales & Customer Success,"SF, CA",No,,https://example.com/6,2026-10-30,https://gamma.example
+Gamma,Content Marketing Manager,Growth & Marketing,"SF, CA",No,,https://example.com/7,2026-10-30,https://gamma.example
+Delta,Senior Backend Engineer,Engineering,"SF, CA",No,,https://example.com/8,2026-10-30,https://delta.example
+Delta,AI Engineer,Data & AI,"SF, CA",No,,https://example.com/9,2026-10-30,https://delta.example
+<Evil & Co>,"<script>alert(1)</script> Support Specialist",Operations,Remote,Yes,,javascript:alert(1),2026-10-30,https://evil.example
+Eps,Customer Success Manager,Sales & Customer Success,Remote,Yes,,https://example.com/11,2026-10-30,https://eps.example
+Eps,Forward Deployed Engineer,Engineering,Remote,Yes,,https://example.com/12,2026-10-30,https://eps.example
